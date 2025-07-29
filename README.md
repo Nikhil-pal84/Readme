@@ -28,7 +28,7 @@ I believe in learning by doing. Every small project teaches me something new. �
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/yourprofile) *(replace with your actual link)*
-- 📧 Email: your.email@example.com *(replace with your actual email)*
+- 📧 Email: darkdevil9560nikhil@gmail.com*(replace with your actual email)*
 
 ---
 
