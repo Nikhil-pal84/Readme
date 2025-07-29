@@ -16,10 +16,7 @@ Welcome to my GitHub! I'm currently pursuing **Bachelor of Computer Applications
 - Creating a solid portfolio on GitHub and LinkedIn
 - Learning version control using Git
 
-## 📈 GitHub Stats
 
-![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhilpal&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilpal&layout=compact&theme=radical)
 
 ## 🌱 Fun Fact
 
@@ -27,7 +24,7 @@ I believe in learning by doing. Every small project teaches me something new. �
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile) *(replace with your actual link)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/nikhil-pal-548169375?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)*(replace with your actual link)*
 - 📧 Email: darkdevil9560nikhil@gmail.com*(replace with your actual email)*
 
 ---
